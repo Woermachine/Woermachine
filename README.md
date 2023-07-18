@@ -2,7 +2,7 @@
 
 ### What I'm up to
 
-- I help develop the [GameChanger](https://play.google.com/store/apps/details?id=com.gc.teammanager) Android app, an app focused on streaming and scorekeeping middle/high-school sports.
+- I help develop the [GameChanger](https://play.google.com/store/apps/details?id=com.gc.teammanager) Android app, an app focused on streaming and scorekeeping youth sports.
 - I occasionally update my app [DubVTransit2](https://play.google.com/store/apps/details?id=com.stephenwoerner.dubvtransittwo) which is a navigation utility aimed at people living in my hometown.
 
 #### Background
